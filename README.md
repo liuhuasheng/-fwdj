@@ -9,7 +9,8 @@
 服务到家，绿色便捷
 
 ## 功能结构&业务架构
-![Uploading fc38667ab287163d40fb05938ee18c3.png…]()
+![fc38667ab287163d40fb05938ee18c3](https://github.com/user-attachments/assets/6df82415-8526-48fe-8089-a1841909ad7d)
+
 
 ### 项目特点
 
