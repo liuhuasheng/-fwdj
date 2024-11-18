@@ -9,7 +9,7 @@
 服务到家，绿色便捷
 
 ## 功能结构&业务架构
-![fc38667ab287163d40fb05938ee18c3](https://github.com/user-attachments/assets/6df82415-8526-48fe-8089-a1841909ad7d)
+![微信图片_20241118213432](https://github.com/user-attachments/assets/e00fecd9-3910-43c1-bc9d-c8bbc382d50b)
 
 
 ### 项目特点
